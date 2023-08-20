@@ -1,0 +1,371 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1692554903996040, "dur":1652, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692554903997705, "dur":115, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692554903997858, "dur":474, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692554903998501, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/Code Testing_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1692554903999526, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1692554904000628, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1692554904001611, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1692554903998354, "dur":3407, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692554904001764, "dur":374534, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692554904376302, "dur":499, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692554904377045, "dur":1963, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1692554903999116, "dur":2734, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904001855, "dur":819, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904002675, "dur":5299, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904007976, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1692554904013577, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1692554904015065, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1692554904015260, "dur":1273, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904016581, "dur":346, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904016938, "dur":3308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1692554904020292, "dur":318, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904020621, "dur":132, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904020926, "dur":7182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904036105, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904028319, "dur":7879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904036382, "dur":721, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904037177, "dur":6309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904043580, "dur":669, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904044320, "dur":4426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904048813, "dur":316, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904053507, "dur":296, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904049187, "dur":4651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904054086, "dur":1102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904063209, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904055368, "dur":7922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904063525, "dur":9714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904073385, "dur":868, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904074303, "dur":6025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904080525, "dur":1443, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904082264, "dur":354, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904082631, "dur":6172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904089046, "dur":275, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904089344, "dur":365, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904089717, "dur":4995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692554904112528, "dur":229, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904094841, "dur":17969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":1, "ts":1692554904139927, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692554904112891, "dur":27147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1692554904140091, "dur":236144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554903999105, "dur":2730, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904001844, "dur":807, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904002652, "dur":5168, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904007863, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1692554904007828, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1692554904007973, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904011412, "dur":3379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1692554904014846, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1692554904014933, "dur":258, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904015198, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1692554904018197, "dur":2899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing.exe" }}
+,{ "pid":12345, "tid":2, "ts":1692554904022426, "dur":9097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904031639, "dur":7256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904045518, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904038996, "dur":6735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904045892, "dur":7337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904053275, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904053440, "dur":9974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904063485, "dur":622, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904064124, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904073016, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904064194, "dur":8909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904080855, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904073223, "dur":7780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904083426, "dur":349, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904083805, "dur":2527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904086402, "dur":655, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904087118, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904090676, "dur":10183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692554904112532, "dur":1319, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692554904101031, "dur":12883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/level3.resS" }}
+,{ "pid":12345, "tid":2, "ts":1692554904114141, "dur":27661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1692554904141844, "dur":234420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554903999226, "dur":2662, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904001899, "dur":1078, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904002977, "dur":4822, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904007802, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1692554904014546, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904009443, "dur":5879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1692554904015446, "dur":1166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904016631, "dur":231, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904016875, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1692554904019840, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904020913, "dur":62763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692554904083810, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904083960, "dur":6129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692554904090213, "dur":7239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692554904097613, "dur":491, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904104905, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692554904098181, "dur":6842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1692554904105204, "dur":32289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/level2.resS" }}
+,{ "pid":12345, "tid":3, "ts":1692554904137524, "dur":238753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692554903998998, "dur":2788, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692554904001794, "dur":5991, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692554904007850, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1692554904007952, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1692554904008707, "dur":284, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Roll Ball Game\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692554904008995, "dur":443, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Roll Ball Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692554904009443, "dur":318, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Roll Ball Game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692554904009763, "dur":355, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Roll Ball Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692554904010120, "dur":476, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Roll Ball Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692554904010598, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Roll Ball Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692554904010670, "dur":431, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Roll Ball Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692554904007849, "dur":3458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1692554904011634, "dur":98, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692554904012118, "dur":355187, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1692554904369738, "dur":5171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1692554904369736, "dur":5176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/Code Testing_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1692554904374989, "dur":1143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1692554903999508, "dur":2542, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904002051, "dur":5961, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904008062, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1692554904008014, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1692554904012714, "dur":2002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1692554904014980, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1692554904014977, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1692554904019515, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904016238, "dur":3419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1692554904019771, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/Code Testing_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1692554904020904, "dur":17697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1692554904042789, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904038837, "dur":4046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904043149, "dur":6415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904049610, "dur":784, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904050434, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904050527, "dur":6047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904056704, "dur":5582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904062413, "dur":730, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904063181, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904063251, "dur":4895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904068222, "dur":585, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904073117, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904068858, "dur":4395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904073323, "dur":946, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904074389, "dur":5561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904080042, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904080171, "dur":766, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904080995, "dur":3106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904084160, "dur":649, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904084870, "dur":2388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904087309, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904087499, "dur":135, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904087649, "dur":5775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904187726, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692554904093588, "dur":94241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692554904188010, "dur":188296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554903999058, "dur":2753, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904001821, "dur":697, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904002518, "dur":5271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904008857, "dur":6109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1692554904014972, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1692554904015055, "dur":347, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904016779, "dur":3965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1692554904027426, "dur":245, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904021028, "dur":6722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904028837, "dur":413, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904029287, "dur":109, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904029419, "dur":8978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904038555, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904045747, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904038739, "dur":7107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904046116, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904046233, "dur":7265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904053581, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904053711, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904053829, "dur":2828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904056722, "dur":851, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904066179, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904057654, "dur":8686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904067438, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904067574, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904067711, "dur":3394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904071231, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904071359, "dur":7068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904078579, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904078754, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904083355, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692554904083572, "dur":2516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904086215, "dur":3918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904090270, "dur":5477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692554904096007, "dur":51156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1692554904147604, "dur":228711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554903999257, "dur":2654, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904001921, "dur":966, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904002888, "dur":4916, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904007809, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1692554904007939, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904009403, "dur":5326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1692554904014884, "dur":102, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904014996, "dur":2318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1692554904017382, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904017378, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904017637, "dur":5305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904023078, "dur":285, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904023439, "dur":5002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904028607, "dur":5975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904034683, "dur":1022, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904042627, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904036017, "dur":6804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904043181, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904048228, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904043315, "dur":5024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904050556, "dur":538, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904048470, "dur":2690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904051283, "dur":1400, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904052771, "dur":3932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904056770, "dur":1436, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904061650, "dur":369, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904058330, "dur":3730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904062271, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904067657, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904062355, "dur":5450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904068065, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904068157, "dur":4810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904073113, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904073177, "dur":5617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904078906, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904079289, "dur":2165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904081564, "dur":2374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904084078, "dur":3386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904087733, "dur":1521, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904089284, "dur":404, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904094572, "dur":133, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904089701, "dur":5075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692554904106870, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692554904094881, "dur":12092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1692554904107088, "dur":33820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1692554904140942, "dur":235283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554903999164, "dur":2697, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904001867, "dur":604, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904002472, "dur":5320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904007829, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1692554904007797, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1692554904007931, "dur":247, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904009084, "dur":11013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1692554904020179, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904020239, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904020939, "dur":13268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904034261, "dur":1141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904035444, "dur":170, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904045461, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904035963, "dur":9686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904045893, "dur":7032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904052972, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904053164, "dur":3510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904056746, "dur":834, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904057612, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904061540, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904057683, "dur":4047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904061951, "dur":3346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904070789, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904065408, "dur":5456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904071037, "dur":6727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904077924, "dur":367, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904078325, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904078398, "dur":3195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904081762, "dur":257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904082264, "dur":345, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904082619, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904085213, "dur":469, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692554904085737, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904087270, "dur":7891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692554904095227, "dur":38633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1692554904133897, "dur":242384, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554903999411, "dur":2620, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904002032, "dur":5763, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904007847, "dur":322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1692554904007821, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1692554904008173, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904014538, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904012064, "dur":2579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1692554904014737, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1692554904014850, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1692554904017479, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1692554904017534, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904017709, "dur":51825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1692554904069699, "dur":3273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1692554904073125, "dur":8031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1692554904081384, "dur":5937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1692554904087447, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904087571, "dur":7199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1692554904104905, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904094862, "dur":10150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1692554904144957, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1692554904105694, "dur":39368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/level3" }}
+,{ "pid":12345, "tid":9, "ts":1692554904145108, "dur":231224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554903999292, "dur":2651, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904001950, "dur":843, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904002793, "dur":5021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904007817, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1692554904007937, "dur":275, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904011329, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1692554904015356, "dur":1209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904016589, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904016789, "dur":4265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1692554904021196, "dur":819, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904030974, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904023883, "dur":7290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904031307, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904031445, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904034270, "dur":1143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904035444, "dur":200, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904036185, "dur":9707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904046092, "dur":4515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904050658, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904050741, "dur":5311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904056143, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904056263, "dur":14187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904072594, "dur":1056, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904073694, "dur":6142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904079974, "dur":3802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904083833, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904083948, "dur":6136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904090211, "dur":4570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1692554904124619, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1692554904094865, "dur":29993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1692554904124945, "dur":16993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1692554904141964, "dur":234254, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554903999355, "dur":2618, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904001984, "dur":317, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904002301, "dur":5509, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904007840, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1692554904007812, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1692554904007962, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904011317, "dur":4403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1692554904015838, "dur":786, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904016697, "dur":430, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904020420, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904019008, "dur":1678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1692554904020810, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904021037, "dur":12447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904033793, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904033906, "dur":15796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904049796, "dur":1868, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904059144, "dur":1166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904051738, "dur":8659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904062438, "dur":1081, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904063545, "dur":16146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904080047, "dur":3703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904083867, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1692554904083952, "dur":6059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904090162, "dur":2981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904093350, "dur":6359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1692554904099892, "dur":19979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1692554904119953, "dur":25358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1692554904145330, "dur":230893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1692554903999407, "dur":2590, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1692554904001998, "dur":5831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1692554904007831, "dur":368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1692554904011465, "dur":8627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1692554904034534, "dur":30748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1692554904065410, "dur":17749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1692554904083354, "dur":179, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1692554904083586, "dur":8197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1692554904091980, "dur":4368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1692554904096458, "dur":1711, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1692554904098227, "dur":7479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1692554904105756, "dur":20200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects/Roll Ball App/Code Testing_Data/level2" }}
+,{ "pid":12345, "tid":12, "ts":1692554904126010, "dur":250284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692554904382783, "dur":1177, "ph":"X", "name": "ProfilerWriteOutput" }
+,
